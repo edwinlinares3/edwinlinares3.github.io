@@ -1,0 +1,98 @@
+body{
+
+ /*    background-color: rgb(230, 86, 20);  */
+    /* margin: 10%; */
+    /* padding: 0%; */
+   /*  font-family: "arial"; */
+    /* font-size: 14px; */
+    margin: 0px auto;
+    
+}
+.centrado{
+/*     width: 200;
+    left:20px;
+    
+    position: absolute;
+    left: 75%; */
+    /* margin-top: 10%; */
+    
+    }
+.foto{
+ /* position: absolute;  */
+ 
+ left: 0%;
+ top: 0%; 
+}
+        
+.cabecera{
+font-size: 20px;
+font-family: 'Times New Roman', Times, serif;
+width: 78%;
+width: 78%;
+height: 950px;
+background-color: rgb(222, 226, 222);
+padding: 10px; 
+position: relative;
+/* border: solid 1px blue; */  
+
+    }
+
+#num1{
+/*     margin-top: 50%;
+    margin-bottom: 100%; */
+/*     background-color: turquoise;
+    margin: 30%; */
+
+
+}
+.menu>li>a{
+    text-decoration: none;
+    color: darkslategrey;
+    
+    
+}
+.menu>li{
+    
+     list-style: none;
+    
+     font-size: 20px; 
+        margin: 20px;
+        font-family: "arial";        
+        /* background-color: rgb(221, 189, 221); */
+ }
+     .menu{
+            display: flex;
+            left: 0%;
+            top: 0%; 
+
+    } 
+/*  .cabecera,menu{
+    font-size: 15px;
+}  */
+.name_persona{ 
+
+    
+    font-size: 3em;
+    margin-left: 78%;
+    margin-top: -55%;
+    font-size: 6em;
+    
+    
+   
+ } 
+
+#content1,
+#content2,
+#content3,
+#content4,
+#content5{
+    
+    margin: 2%;
+    font-size: 1em;
+  
+}
+.titulos{
+    text-align: center;
+    font-size: 2em;
+    color: brown;
+}
